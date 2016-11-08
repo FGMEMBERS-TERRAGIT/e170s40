@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 174.8070995 -36.8355918 -0.34 215.35
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.7574556 -36.8367392 -1.25 80.84
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.7669728 -36.8255732 -1.28 231.68
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.8238501 -36.7931429 -0.02 283.34
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.8944065 -36.8448147 -0.06 323.94
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.9005215 -36.8428412 -0.02 164.56
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 174.937405 -36.795727 -0.11 351.33
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 174.7674252 -36.8278293 -1.28 63.17
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 174.773 -36.76 -0.08 303.4
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 174.9689892 -36.8091947 -0.09 295.43
+OBJECT_STATIC cn-tower.xml 174.762183 -36.84846 -154.02 0
