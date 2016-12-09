@@ -1,3 +1,50 @@
 OBJECT_SHARED Models/Airport/ndb.ac 176.871528 -39.472336 0.04 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 176.868925 -39.453803 5.93 180
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 176.895 -39.4783 -0.04 227.96
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 176.87115 -39.46850 2.15 86.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 176.87113 -39.46780 2.47 115.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 176.87139 -39.46750 2.08 108.85
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 176.87114 -39.46749 2.08 342.9
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 176.87122 -39.46767 2.44 123.69
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 176.87073 -39.46789 2.48 102.14
+OBJECT_SHARED Models/Aircraft/ATR42.xml 176.87176 -39.46614 2.82 67.78
+OBJECT_SHARED Models/lib/SmHangar.ac 176.87223 -39.46886 1.06 57.68
+OBJECT_SHARED Models/lib/SmHangar.ac 176.87179 -39.46886 1.06 58.29
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 176.87126 -39.46782 2.47 245.44
+OBJECT_SHARED Models/lib/cube16x10.ac 176.87156 -39.46729 1.87 156.75
+OBJECT_SHARED Models/lib/MedHangar.ac 176.87146 -39.46759 2.26 336.43
+OBJECT_SHARED Models/lib/SmHangar.ac 176.87144 -39.46850 2.15 239.37
+OBJECT_SHARED Models/lib/MedHangar.ac 176.87146 -39.46822 2.31 329.12
+OBJECT_SHARED Models/lib/cars4.ac 176.87188 -39.46724 2.21 156.58
+OBJECT_SHARED Models/lib/cars6.ac 176.87175 -39.46703 2.44 336.87
+OBJECT_SHARED Models/lib/cars6.ac 176.87178 -39.46685 2.53 336.56
+OBJECT_SHARED Models/lib/cars6.ac 176.87198 -39.46710 2.40 156.7
+OBJECT_SHARED Models/lib/cars6.ac 176.87240 -39.46600 3.06 336.25
+OBJECT_SHARED Models/lib/cars6.ac 176.87263 -39.46606 4.53 157.05
+OBJECT_SHARED Models/lib/cars4.ac 176.87233 -39.46590 3.27 65.94
+OBJECT_SHARED Models/lib/cars10.ac 176.87238 -39.46581 3.44 66.58
+OBJECT_SHARED Models/lib/cars6.ac 176.87265 -39.46551 4.26 336.08
+OBJECT_SHARED Models/lib/cars7.ac 176.87262 -39.46577 4.66 336.54
+OBJECT_SHARED Models/lib/cars7.ac 176.87261 -39.46579 4.66 157.29
+OBJECT_SHARED Models/lib/lamp10m.xml 176.87144 -39.46739 1.90 -37.67
+OBJECT_SHARED Models/lib/lamp10m.xml 176.87159 -39.46693 2.48 -23.89
+OBJECT_SHARED Models/lib/lamp10m.xml 176.87178 -39.46655 2.63 -23.5
+OBJECT_SHARED Models/lib/lamp10m.xml 176.87197 -39.46621 2.52 -23.53
+OBJECT_SHARED Models/lib/lamp10m.xml 176.87232 -39.46572 3.48 -23.05
+OBJECT_SHARED Models/lib/chariot2.ac 176.87238 -39.46563 3.35 67.83
+OBJECT_SHARED Models/lib/chariot3curve.ac 176.87194 -39.46612 2.82 105.46
+OBJECT_SHARED Models/lib/chariot2.ac 176.87152 -39.46705 2.40 16.79
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 176.87170 -39.46671 2.57 66.04
+OBJECT_SHARED Models/lib/stack_of_cones.ac 176.87227 -39.46576 3.44 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 176.87174 -39.46659 2.60 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 176.87156 -39.46699 2.44 0
+OBJECT_SHARED Models/lib/belt_loader.ac 176.87218 -39.46610 2.82 -23.98
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 176.87220 -39.46603 3.06 246.68
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 176.87246 -39.46615 2.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 176.87254 -39.46539 4.12 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 176.87170 -39.46712 2.40 349.77
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 176.87233 -39.46596 3.06 270
+# END dsf2stg
