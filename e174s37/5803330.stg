@@ -40,3 +40,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.7469343 -36.9225582 77.93 18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.7476552 -36.922517 82.46 183.21
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.7486337 -36.9255979 96.85 154.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.7489169 -36.9224759 83.99 188.5
+OBJECT_SHARED Models/Sport/FootballCourt.xml 174.742114 -36.916287 58.73 0
+OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 174.747226 -36.895564 64.23 0
